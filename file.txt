@@ -35,7 +35,7 @@ Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come 
     }
     - ALTRIMENTI{
         -FINCHè non trovo una pizza che mi convince{
-        - Sfoglio il catalogo;
+            - Sfoglio il catalogo;
         }
     }
 
